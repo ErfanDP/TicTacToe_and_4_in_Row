@@ -34,7 +34,6 @@ public class FourInRowFragment extends GameFragment {
     private List<Button> mListVertical5;
     private List<Button> mListVertical6;
 
-
     private View mSixXSixHorizontal;
     private View mSixXSixVertical;
     private View mSevenXSevenHorizontal;
@@ -845,5 +844,5 @@ public class FourInRowFragment extends GameFragment {
                 boardInit();
         }
     }
-    
+
 }
